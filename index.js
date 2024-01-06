@@ -32,6 +32,19 @@ function start() {
     if (answer.option==="add a department") {
      Adddepartment ()
     }
+    if (answer.option==="view all employees") {
+      viewrole ()
+     }
+     if (answer.option==="add a roll") {
+      viewrole ()
+     }
+     if (answer.option==="add an employee") {
+      viewrole ()
+     }
+     if (answer.option==="update an employee role") {
+      viewrole ()
+     }
+ 
   })
 }
 
